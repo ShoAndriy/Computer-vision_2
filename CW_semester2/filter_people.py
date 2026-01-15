@@ -68,3 +68,4 @@ for filename in files:
 
 print('З людьми: ', count_people, "Без людей: ", count_no_people)
 
+
